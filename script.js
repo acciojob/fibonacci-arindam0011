@@ -3,7 +3,7 @@ function fibonacci(num) {
 	let fibo1=0;
 	let fibo2=1;
 	if(num==1){
-		return foibo1;
+		return fibo1;
 	}
 	else if (num==2){
 		return fibo2;
